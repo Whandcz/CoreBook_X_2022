@@ -1162,7 +1162,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>-igfxblr</string>
+				<string>-igfxblr -lilubetaall</string>
 				<key>csr-active-config</key>
 				<data>5wMAAA==</data>
 				<key>ocwv</key>
